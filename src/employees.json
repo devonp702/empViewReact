@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "first_name": "Joan",
+    "last_name": "Smith",
+    "department": "Sales",
+    "role": "Manager",
+    "manager": true
+  },
+  {
+    "id": 2,
+    "first_name": "Steven",
+    "last_name": "Magnet",
+    "department": "Production",
+    "role": "Manager",
+    "manager": true
+  },
+  {
+    "id": 3,
+    "first_name": "Cheese",
+    "last_name": "McGee",
+    "department": "Sales",
+    "role": "Public Relations",
+    "manager": false
+  },
+  {
+    "id": 4,
+    "first_name": "Billy",
+    "last_name": "Green",
+    "department": "Production",
+    "role": "Inventory",
+    "manager": false
+  },
+  {
+    "id": 5,
+    "first_name": "Tyler",
+    "last_name": "Wiltonsnyder",
+    "department": "Sales",
+    "role": "Online Presence",
+    "manager": false
+  },
+  {
+    "id": 6,
+    "first_name": "Juice",
+    "last_name": "Simpson",
+    "department": "Central Office",
+    "role": "Manager",
+    "manager": true
+  }
+]
