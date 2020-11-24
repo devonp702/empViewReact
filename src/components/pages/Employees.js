@@ -4,6 +4,10 @@ import list from "../../employees.json";
 
 function Employees(props) {
   return (
+    <>
+    <button class="button" id="id">Sort by ID</button>
+    <button class="button" id="lastName">Sort by Last Name</button>
+    <button class="button" id="department">Sort by Department</button>
     <ul className="list-group">
       {list.map(item => (
         <li className="list-group-item" key={item.id}>
@@ -11,6 +15,7 @@ function Employees(props) {
       </li>
       ))}
     </ul>
+    </>
   );
 }
 
