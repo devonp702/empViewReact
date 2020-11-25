@@ -22,6 +22,7 @@ class Portfolio extends Component {
 
   render() {
     return (
+      <>
       <div>
         <NavTabs
           currentPage={this.state.currentPage}
@@ -29,6 +30,7 @@ class Portfolio extends Component {
         />
         {this.renderPage()}
       </div>
+      </>
     );
   }
 }
