@@ -16,13 +16,13 @@
 * [Questions](#questions)
 
   ## Introduction
-Track and review your financial data all on one page. This app works as a WPA and makes will work online, or offline, when you connect back up, It will sync your data.
+View your employees, and change the list views.
 
   ## Installation
-  This program runs in the browser. You can also install it and run it on localhost:3000 with a mongo database), Once it is set up, it can run without being connected to the network.
+  This program runs in the browser. You can also install it and run it on localhost:3000, 
 
   ## Usage
-  This app is intuitive, if you are adding funds, or decreacing funds click the corresponding button after filling the fields.
+  This app is intuitive, The list loads automaticly, click buttons to change the views.
 
   ## License
   * I am using the MIT license. 
